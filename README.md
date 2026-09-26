@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Kotlin;Learning+by+building+real+projects;Turning+ideas+into+working+software" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=Profile%20Views&color=7F52FF&style=flat" alt="Profile views" />
+
 </div>
 
 ---
@@ -16,6 +20,7 @@
 class Shaban {
     val role = "Android Developer"
     val language = "Kotlin"
+
     val currentlyLearning = listOf(
         "Android Development",
         "Kotlin",
@@ -66,7 +71,7 @@ A clean calculator built while learning Android development.
 * 🧮 `BigDecimal` for precise calculations
 * 🎨 Clean number formatting
 
-> Built to learn—not just to follow a tutorial.
+> Built to learn — not just to follow a tutorial.
 
 ---
 
@@ -101,7 +106,7 @@ Developer Tools
 
 > **Don't just copy code. Understand why it works.**
 
-I care about understanding what's happening underneath the code—not just making the compiler shut up.
+I care about understanding what's happening underneath the code — not just making the compiler shut up.
 
 ```text
 Learn
@@ -125,7 +130,7 @@ Build Better
 
 <img src="https://github-readme-stats.vercel.app/api?username=pabloesc1999&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloesc1999&theme=tokyonight&hide_border=true" />
 
@@ -165,6 +170,3 @@ Build Better
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=100&section=footer" />
 
 </div>
-
-
-
