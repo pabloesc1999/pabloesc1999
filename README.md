@@ -8,7 +8,15 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=Profile%20Views&color=7F52FF&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=Profile%20Views&color=7F52FF&style=for-the-badge" alt="Profile Views" />
+
+ 
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+
+ 
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
 </div>
 
@@ -18,6 +26,7 @@
 
 ```kotlin
 class Shaban {
+
     val role = "Android Developer"
     val language = "Kotlin"
 
@@ -28,15 +37,15 @@ class Shaban {
         "Software Engineering"
     )
 
-    val mindset = "Build → Break → Debug → Learn → Repeat"
+    val mindset = "Build → Break → Debug → Learn → Build Better"
 }
 ```
 
 I'm an IT student focused on **Android development with Kotlin**.
 
-I learn best by building real projects, breaking things, figuring out why they broke, and fixing them.
+I learn by building real projects, breaking things, figuring out why they broke, and fixing them.
 
-Currently working on improving my Kotlin fundamentals, Android UI development, clean code, and software engineering practices.
+Currently focused on improving my Kotlin fundamentals, Android UI development, clean code, and software engineering practices.
 
 ---
 
@@ -56,9 +65,9 @@ Currently working on improving my Kotlin fundamentals, Android UI development, c
 
 My first real Kotlin/Android project.
 
-A clean calculator built while learning Android development.
+A calculator built while learning Android development and Kotlin.
 
-**Highlights:**
+**Features**
 
 * ➕ Addition
 * ➖ Subtraction
@@ -71,7 +80,7 @@ A clean calculator built while learning Android development.
 * 🧮 `BigDecimal` for precise calculations
 * 🎨 Clean number formatting
 
-> Built to learn — not just to follow a tutorial.
+> **Built to learn — not just to follow a tutorial.**
 
 ---
 
@@ -102,24 +111,22 @@ Developer Tools
 
 ---
 
-## 🧠 My Development Philosophy
+## 🧠 Development Philosophy
 
 > **Don't just copy code. Understand why it works.**
 
-I care about understanding what's happening underneath the code — not just making the compiler shut up.
-
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Build Better
+        LEARN
+          ↓
+        BUILD
+          ↓
+        BREAK
+          ↓
+        DEBUG
+          ↓
+      UNDERSTAND
+          ↓
+     BUILD BETTER
 ```
 
 ---
@@ -130,7 +137,7 @@ Build Better
 
 <img src="https://github-readme-stats.vercel.app/api?username=pabloesc1999&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloesc1999&theme=tokyonight&hide_border=true" />
 
@@ -151,12 +158,12 @@ Build Better
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/pabloesc1999">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -166,6 +173,8 @@ Build Better
 <div align="center">
 
 ### `Code. Learn. Build. Repeat.`
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=100&section=footer" />
 
