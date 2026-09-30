@@ -1,56 +1,68 @@
 <div align="center">
 
-# ⚡ SHABAN SAEED
+# `SHABAN SAEED`
 
-### `ANDROID DEVELOPER  •  KOTLIN  •  SOFTWARE BUILDER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7F52FF&center=true&vCenter=true&width=700&lines=Building+Android+apps+with+Kotlin;Turning+ideas+into+working+software;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Improve;Learning+by+building+real+projects" />
+### `ANDROID DEVELOPER  //  KOTLIN  //  BUILDER`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=PROFILE+VIEWS&color=7F52FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+developer.profile...;Kotlin+%2B+Android+%3D+Building;Turning+ideas+into+working+software;Learn.+Build.+Break.+Debug.+Repeat." />
 
-  
+<br><br>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=VISITORS&color=00F5FF&style=for-the-badge" />
 
-  
+ 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+ 
+
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 </div>
 
 ---
 
-# `> whoami`
-
-```kotlin
-class Shaban {
-
-    val role = "Android Developer"
-    val primaryLanguage = "Kotlin"
-
-    val focus = listOf(
-        "Android Development",
-        "Kotlin",
-        "Software Engineering",
-        "Git & GitHub"
-    )
-
-    val philosophy =
-        "Build → Break → Debug → Understand → Build Better"
-}
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SYSTEM INITIALIZED                       │
+├──────────────────────────────────────────────────────────────┤
+│ USER        : SHABAN SAEED                                  │
+│ ROLE        : ANDROID DEVELOPER                              │
+│ PRIMARY     : KOTLIN                                         │
+│ ENVIRONMENT : ANDROID STUDIO                                │
+│ STATUS      : BUILDING                                      │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+# `01 // ABOUT`
 
 I'm an **IT student and Android developer focused on Kotlin**.
 
-I learn by building actual applications rather than just following tutorials — then I break things, debug them, figure out *why* they failed, and improve the implementation.
+I learn by building real applications, testing ideas, breaking things, debugging them, and understanding **why** they work.
 
-Currently focused on **Kotlin fundamentals, native Android development, UI architecture, application state, persistence, and writing cleaner code.**
+My current focus is **native Android development, Kotlin fundamentals, UI development, application state, persistence, and software engineering fundamentals.**
+
+```text
+MINDSET
+
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+BUILD AGAIN
+```
 
 ---
 
-# `> tech_stack`
+# `02 // ARSENAL`
 
 <div align="center">
 
@@ -60,29 +72,44 @@ Currently focused on **Kotlin fundamentals, native Android development, UI archi
 
 <br>
 
-| Area            | Technologies                         |
-| --------------- | ------------------------------------ |
-| **Language**    | Kotlin                               |
-| **Android**     | Android SDK, Activities, Intents     |
-| **UI**          | XML, ConstraintLayout, Android Views |
-| **View Access** | View Binding                         |
-| **Persistence** | SharedPreferences                    |
-| **Components**  | Material Components                  |
-| **Tools**       | Android Studio, Gradle, Git, GitHub  |
+```text
+LANGUAGES
+└── Kotlin
+└── Java
+└── HTML / CSS / JavaScript
+
+ANDROID
+└── Android SDK
+└── XML Layouts
+└── Activities
+└── Intents
+└── View Binding
+└── ConstraintLayout
+└── Material Components
+└── SharedPreferences
+
+TOOLS
+└── Android Studio
+└── Gradle
+└── Git
+└── GitHub
+└── VS Code
+└── Visual Studio
+```
 
 ---
 
-# `> projects`
+# `03 // PROJECTS`
 
-## 🧮 `Simple Calculator`
+### `01` ── `SIMPLE CALCULATOR`
 
-> **My first real Kotlin / Android application.**
+**Kotlin • Android Views • View Binding • BigDecimal**
 
 A calculator built from scratch while learning Kotlin and native Android development.
 
-### `FEATURES`
-
 ```text
+FEATURES
+
 [✓] Addition
 [✓] Subtraction
 [✓] Multiplication
@@ -90,167 +117,134 @@ A calculator built from scratch while learning Kotlin and native Android develop
 [✓] Chained calculations
 [✓] Operator swapping
 [✓] Decimal handling
-[✓] Divide-by-zero protection
+[✓] Divide-by-zero handling
 [✓] Clean number formatting
-[✓] Precision-safe BigDecimal calculations
+[✓] BigDecimal precision
 ```
 
-### `TECH`
+**Key learning**
 
-`Kotlin` `Android Views` `ViewBinding` `BigDecimal`
-
-**What I learned**
-
-* Managing multi-step UI state
-* Handling edge cases
-* Kotlin enums for type safety
-* Precision-safe arithmetic
-* Separating calculation logic from UI behavior
+`UI State` `Enums` `Edge Cases` `Precision Math` `Kotlin Logic`
 
 ---
 
-## 🔐 `LoginTask`
+### `02` ── `LOGINTASK`
 
-> **A native Android authentication-flow learning project.**
+**Kotlin • XML • Intents • SharedPreferences**
 
-A two-screen Android application demonstrating login validation, navigation, persistent sessions, and local data storage.
-
-### `FEATURES`
+A two-screen Android application demonstrating local session persistence and navigation.
 
 ```text
-[✓] Login form
-[✓] Username + email + password input
-[✓] Input validation
+FLOW
+
+APP START
+   │
+   ▼
+CHECK SESSION
+   │
+   ├───────────────┐
+   │               │
+LOGGED IN       LOGGED OUT
+   │               │
+   ▼               ▼
+DASHBOARD        LOGIN
+   │               │
+   │            VALIDATE
+   │               │
+   │               ▼
+   │          SAVE SESSION
+   │               │
+   └───────► DASHBOARD
+```
+
+```text
+FEATURES
+
+[✓] Login validation
 [✓] Email validation
-[✓] Persistent login sessions
-[✓] SharedPreferences storage
-[✓] Intent-based navigation
-[✓] Logout functionality
+[✓] Persistent sessions
+[✓] SharedPreferences
+[✓] Intent navigation
+[✓] Logout
 [✓] Back-stack management
 ```
 
-### `ARCHITECTURE FLOW`
+**Key learning**
 
-```text
-             ┌───────────────┐
-             │   APP LAUNCH  │
-             └───────┬───────┘
-                     │
-                     ▼
-          ┌─────────────────────┐
-          │ SharedPreferences   │
-          │  logged_in = true?  │
-          └──────────┬──────────┘
-                     │
-             ┌───────┴───────┐
-             │               │
-            YES              NO
-             │               │
-             ▼               ▼
-       ┌───────────┐    ┌───────────┐
-       │ Dashboard │    │   Login   │
-       └─────┬─────┘    └─────┬─────┘
-             │                │
-             │             VALID
-             │                │
-             │                ▼
-             │        ┌──────────────┐
-             │        │ Save Session │
-             │        └──────┬───────┘
-             │               │
-             └───────►───────┘
-```
+`Activities` `Intents` `Persistence` `Lifecycle` `State`
 
-### `TECH`
-
-`Kotlin` `XML` `SharedPreferences` `Intents` `Android Studio`
-
-**What I learned**
-
-* Activity lifecycle
-* Explicit Intents
-* Persistent application state
-* SharedPreferences
-* Back-stack management
-* Kotlin null safety
-* Input validation
-
-> ⚠️ **Learning project:** authentication data is intentionally stored locally to demonstrate persistence. This is not intended as production authentication.
+> ⚠️ Learning project: credentials are stored locally for demonstration purposes and are not suitable for production authentication.
 
 ---
 
-## 🔢 `Counter App`
+### `03` ── `COUNTER APP`
 
-> **A focused Android UI and state-management exercise.**
+**Kotlin • XML • ConstraintLayout • View Binding**
 
-A minimal counter application designed to practice UI interaction, View Binding, and state handling.
-
-### `FEATURES`
+A focused Android exercise for UI interaction and state management.
 
 ```text
-[✓] Increment counter
-[✓] Reset counter
+FEATURES
+
+[✓] Increment
+[✓] Reset
 [✓] Material UI
 [✓] View Binding
 [✓] ConstraintLayout
 [✓] Rotation-safe state
 ```
 
-### `TECH`
+**Key learning**
 
-`Kotlin` `XML` `ConstraintLayout` `View Binding` `Material Components`
-
-**What I learned**
-
-* Connecting UI elements to Kotlin
-* Handling click listeners
-* Managing application state
-* View Binding
-* Android configuration changes
+`Click Listeners` `UI State` `View Binding` `Configuration Changes`
 
 ---
 
-# `> learning_path`
-
-My projects are intentionally small — each one introduces a new concept.
+# `04 // DEVELOPMENT PATH`
 
 ```text
-                  ANDROID DEVELOPMENT
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    COUNTER APP      │
-              │                     │
-              │ UI + Events + State │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │  SIMPLE CALCULATOR  │
-              │                     │
-              │ Logic + Edge Cases  │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │      LOGINTASK      │
-              │                     │
-              │ Navigation + State  │
-              │    + Persistence    │
-              └─────────────────────┘
+                 ANDROID
+                    │
+                    ▼
+          ┌──────────────────┐
+          │   COUNTER APP    │
+          │                  │
+          │ UI + EVENTS      │
+          │ STATE            │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ SIMPLE CALCULATOR│
+          │                  │
+          │ LOGIC + EDGE     │
+          │ CASES            │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │    LOGINTASK     │
+          │                  │
+          │ NAVIGATION +     │
+          │ PERSISTENCE      │
+          └────────┬─────────┘
+                   │
+                   ▼
+             NEXT PROJECT
 ```
 
-The goal isn't to build huge applications immediately.
+Small projects.
 
-It's to understand **why the code works**.
+Increasing complexity.
+
+Real understanding.
 
 ---
 
-# `> currently_learning`
+# `05 // CURRENTLY BUILDING`
 
 ```text
 KOTLIN
-├── Functions
 ├── OOP
 ├── Collections
 ├── Lambdas
@@ -259,15 +253,15 @@ KOTLIN
 └── Advanced Kotlin
 
 ANDROID
-├── XML Layouts
+├── XML
 ├── View Binding
 ├── Activities
 ├── Intents
 ├── UI State
 ├── Persistence
-└── Application Architecture
+└── Architecture
 
-DEVELOPER TOOLS
+DEVELOPER WORKFLOW
 ├── Git
 ├── GitHub
 ├── Android Studio
@@ -276,86 +270,58 @@ DEVELOPER TOOLS
 
 ---
 
-# `> development_philosophy`
-
-```text
-             ┌──────────┐
-             │   LEARN  │
-             └────┬─────┘
-                  │
-                  ▼
-             ┌──────────┐
-             │  BUILD   │
-             └────┬─────┘
-                  │
-                  ▼
-             ┌──────────┐
-             │  BREAK   │
-             └────┬─────┘
-                  │
-                  ▼
-             ┌──────────┐
-             │  DEBUG   │
-             └────┬─────┘
-                  │
-                  ▼
-             ┌──────────┐
-             │UNDERSTAND│
-             └────┬─────┘
-                  │
-                  ▼
-             ┌──────────┐
-             │  IMPROVE │
-             └────┬─────┘
-                  │
-                  └──────────────► BUILD AGAIN
-```
-
-> **Don't just copy code. Understand why it works.**
-
----
-
-# `> roadmap`
+# `06 // ROADMAP`
 
 ```text
 2026
-│
-├── [✓] Build first Android applications
-├── [✓] Start using Git & GitHub
-├── [✓] Work with Kotlin + XML
-├── [✓] Implement persistent local state
-│
-├── [ ] Build larger Android applications
-├── [ ] Become genuinely comfortable with Kotlin
-├── [ ] Learn Firebase
-├── [ ] Learn modern Android architecture
-├── [ ] Build and publish a complete Android application
-├── [ ] Contribute to open source
-└── [ ] Build a strong developer portfolio
+
+[████████████████░░░░] Android Fundamentals
+
+[x] First Android applications
+[x] Kotlin + XML
+[x] Git + GitHub
+[x] View Binding
+[x] Persistent local state
+
+[░░░░░░░░░░░░░░░░░░░░] NEXT
+
+[ ] Larger Android applications
+[ ] Stronger Kotlin fundamentals
+[ ] Firebase
+[ ] Modern Android architecture
+[ ] Publish a complete application
+[ ] Open-source contribution
+[ ] Build a professional portfolio
 ```
 
 ---
 
-# `> github_stats`
+# `07 // GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pabloesc1999&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=pabloesc1999&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=C9D1D9" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloesc1999&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloesc1999&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF" />
 
 </div>
 
 ---
 
-# `> connect`
+# `08 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/pabloesc1999">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
+</a>
+
+  
+
+<a href="https://www.linkedin.com/in/m-shaban-saeed-80b5a2316/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
 </a>
 
 </div>
@@ -364,10 +330,16 @@ DEVELOPER TOOLS
 
 <div align="center">
 
-### `CODE  •  DEBUG  •  LEARN  •  BUILD`
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│       CODE  //  DEBUG  //  REPEAT          │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
-<br>
+### `SYSTEM STATUS: ONLINE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer" />
 
 </div>
