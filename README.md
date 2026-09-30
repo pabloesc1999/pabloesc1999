@@ -6,19 +6,33 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+developer.profile...;Kotlin+%2B+Android+%3D+Building;Turning+ideas+into+working+software;Learn.+Build.+Break.+Debug.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+developer.profile...;Kotlin+%2B+Android+%3D+Building;Turning+ideas+into+working+software;Learn.+Build.+Debug.+Repeat." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=VISITORS&color=00F5FF&style=for-the-badge" />
+<a href="https://shaban-portfolio-tau.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
  
+
+<img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=VISITORS&color=00F5FF&style=for-the-badge" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
  
 
 <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+ 
+
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+ 
+
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </div>
 
@@ -30,19 +44,21 @@
 ├──────────────────────────────────────────────────────────────┤
 │ USER        : SHABAN SAEED                                  │
 │ ROLE        : ANDROID DEVELOPER                              │
-│ PRIMARY     : KOTLIN                                         │
-│ ENVIRONMENT : ANDROID STUDIO                                │
+│ PRIMARY     : KOTLIN / ANDROID                              │
+│ EXPLORING   : MODERN WEB DEVELOPMENT                        │
 │ STATUS      : BUILDING                                      │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 # `01 // ABOUT`
 
-I'm an **IT student and Android developer focused on Kotlin**.
+I'm a developer focused on **Android development with Kotlin** and native application development.
 
 I learn by building real applications, testing ideas, breaking things, debugging them, and understanding **why** they work.
 
-My current focus is **native Android development, Kotlin fundamentals, UI development, application state, persistence, and software engineering fundamentals.**
+My current focus is **Kotlin, native Android development, UI development, application state, persistence, and software engineering fundamentals.**
+
+I'm also expanding into modern web development with **Next.js, TypeScript, and Tailwind CSS** by building practical projects and my own developer portfolio.
 
 ```text
 MINDSET
@@ -66,19 +82,15 @@ BUILD AGAIN
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,java,git,github,html,css,js,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,java,git,github,nextjs,typescript,tailwind,html,css,js,vscode,visualstudio" />
 
 </div>
 
 <br>
 
 ```text
-LANGUAGES
-└── Kotlin
-└── Java
-└── HTML / CSS / JavaScript
-
 ANDROID
+└── Kotlin
 └── Android SDK
 └── XML Layouts
 └── Activities
@@ -88,6 +100,14 @@ ANDROID
 └── Material Components
 └── SharedPreferences
 
+WEB
+└── Next.js
+└── TypeScript
+└── Tailwind CSS
+└── HTML
+└── CSS
+└── JavaScript
+
 TOOLS
 └── Android Studio
 └── Gradle
@@ -95,6 +115,7 @@ TOOLS
 └── GitHub
 └── VS Code
 └── Visual Studio
+└── Vercel
 ```
 
 ---
@@ -103,9 +124,9 @@ TOOLS
 
 ### `01` ── `SIMPLE CALCULATOR`
 
-**Kotlin • Android Views • View Binding • BigDecimal**
+**Kotlin • Android • XML • BigDecimal**
 
-A calculator built from scratch while learning Kotlin and native Android development.
+A precision-focused Android calculator built while learning Kotlin and native Android development.
 
 ```text
 FEATURES
@@ -124,15 +145,15 @@ FEATURES
 
 **Key learning**
 
-`UI State` `Enums` `Edge Cases` `Precision Math` `Kotlin Logic`
+`UI State` `Kotlin Logic` `Edge Cases` `Precision Math`
 
 ---
 
 ### `02` ── `LOGINTASK`
 
-**Kotlin • XML • Intents • SharedPreferences**
+**Kotlin • Android • XML • Intents • SharedPreferences**
 
-A two-screen Android application demonstrating local session persistence and navigation.
+An Android authentication practice project demonstrating local session persistence and screen navigation.
 
 ```text
 FLOW
@@ -171,7 +192,7 @@ FEATURES
 
 **Key learning**
 
-`Activities` `Intents` `Persistence` `Lifecycle` `State`
+`Activities` `Intents` `Persistence` `State`
 
 > ⚠️ Learning project: credentials are stored locally for demonstration purposes and are not suitable for production authentication.
 
@@ -179,24 +200,24 @@ FEATURES
 
 ### `03` ── `COUNTER APP`
 
-**Kotlin • XML • ConstraintLayout • View Binding**
+**Kotlin • XML • ConstraintLayout • Android**
 
-A focused Android exercise for UI interaction and state management.
+A focused Android exercise for UI interaction, button handling, and application state.
 
 ```text
 FEATURES
 
 [✓] Increment
 [✓] Reset
-[✓] Material UI
-[✓] View Binding
+[✓] Button click handling
+[✓] UI state updates
 [✓] ConstraintLayout
-[✓] Rotation-safe state
+[✓] Android UI interaction
 ```
 
 **Key learning**
 
-`Click Listeners` `UI State` `View Binding` `Configuration Changes`
+`Click Listeners` `UI State` `XML Layouts` `Android Fundamentals`
 
 ---
 
@@ -227,6 +248,14 @@ FEATURES
           │                  │
           │ NAVIGATION +     │
           │ PERSISTENCE      │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │   MODERN WEB     │
+          │                  │
+          │ NEXT.JS + TS     │
+          │ TAILWIND CSS     │
           └────────┬─────────┘
                    │
                    ▼
@@ -261,11 +290,19 @@ ANDROID
 ├── Persistence
 └── Architecture
 
+MODERN WEB
+├── Next.js
+├── TypeScript
+├── Tailwind CSS
+└── Responsive UI
+
 DEVELOPER WORKFLOW
 ├── Git
 ├── GitHub
 ├── Android Studio
-└── Gradle
+├── VS Code
+├── Gradle
+└── Vercel
 ```
 
 ---
@@ -275,6 +312,7 @@ DEVELOPER WORKFLOW
 ```text
 2026
 
+ANDROID
 [████████████████░░░░] Android Fundamentals
 
 [x] First Android applications
@@ -283,7 +321,16 @@ DEVELOPER WORKFLOW
 [x] View Binding
 [x] Persistent local state
 
-[░░░░░░░░░░░░░░░░░░░░] NEXT
+WEB
+[████████████░░░░░░░░] Modern Web Development
+
+[x] Next.js
+[x] TypeScript
+[x] Tailwind CSS
+[x] Responsive portfolio
+[x] Vercel deployment
+
+NEXT
 
 [ ] Larger Android applications
 [ ] Stronger Kotlin fundamentals
@@ -291,12 +338,30 @@ DEVELOPER WORKFLOW
 [ ] Modern Android architecture
 [ ] Publish a complete application
 [ ] Open-source contribution
-[ ] Build a professional portfolio
+[ ] Build more production-ready projects
 ```
 
 ---
 
-# `07 // GITHUB`
+# `07 // LIVE PORTFOLIO`
+
+<div align="center">
+
+<a href="https://shaban-portfolio-tau.vercel.app/">
+
+<img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+
+</a>
+
+<br><br>
+
+`shaban-portfolio-tau.vercel.app`
+
+</div>
+
+---
+
+# `08 // GITHUB`
 
 <div align="center">
 
@@ -310,7 +375,7 @@ DEVELOPER WORKFLOW
 
 ---
 
-# `08 // CONNECT`
+# `09 // CONNECT`
 
 <div align="center">
 
@@ -318,10 +383,16 @@ DEVELOPER WORKFLOW
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
 
-  
+ 
 
 <a href="https://www.linkedin.com/in/m-shaban-saeed-80b5a2316/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+</a>
+
+ 
+
+<a href="mailto:shabansaeed1999@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
 </a>
 
 </div>
