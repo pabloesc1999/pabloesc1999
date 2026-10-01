@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
- 
+ 
 
 <img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=VISITORS&color=00F5FF&style=for-the-badge" />
 
@@ -22,15 +22,15 @@
 
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
- 
+ 
 
 <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
- 
+ 
 
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
- 
+ 
 
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
@@ -56,7 +56,7 @@ I'm a developer focused on **Android development with Kotlin** and native applic
 
 I learn by building real applications, testing ideas, breaking things, debugging them, and understanding **why** they work.
 
-My current focus is **Kotlin, native Android development, UI development, application state, persistence, and software engineering fundamentals.**
+My current focus is **Kotlin, native Android development, UI development, application state, persistence, navigation, and software engineering fundamentals.**
 
 I'm also expanding into modern web development with **Next.js, TypeScript, and Tailwind CSS** by building practical projects and my own developer portfolio.
 
@@ -94,6 +94,8 @@ ANDROID
 └── Android SDK
 └── XML Layouts
 └── Activities
+└── Fragments
+└── Navigation Component
 └── Intents
 └── View Binding
 └── ConstraintLayout
@@ -198,7 +200,48 @@ FEATURES
 
 ---
 
-### `03` ── `COUNTER APP`
+### `03` ── `ANDROID BOTTOM NAVIGATION`
+
+**Kotlin • Android • Fragments • Navigation Component**
+
+A single-Activity, multi-screen Android app built around the Navigation Component — three Fragments, one NavGraph, one BottomNavigationView, zero extra Activities.
+
+```text
+ARCHITECTURE
+
+MAINACTIVITY (the one true Activity)
+   │
+   ▼
+NAVHOSTFRAGMENT
+   │
+   ├────────────┬────────────┐
+   │            │            │
+HOMEFRAGMENT SEARCHFRAGMENT BOOKMARKFRAGMENT
+   │            │            │
+   └────────────┴────────────┘
+                │
+       BOTTOMNAVIGATIONVIEW
+      (wired straight to NavController)
+```
+
+```text
+FEATURES
+
+[✓] Single-Activity architecture
+[✓] 3 Fragments as independent destinations
+[✓] NavGraph-driven navigation
+[✓] BottomNavigationView auto-wired via setupWithNavController
+[✓] Custom vector icons per tab
+[✓] Back-stack handled by defaultNavHost
+```
+
+**Key learning**
+
+`Fragments` `NavGraph` `NavController` `Single-Activity Architecture`
+
+---
+
+### `04` ── `COUNTER APP`
 
 **Kotlin • XML • ConstraintLayout • Android**
 
@@ -252,6 +295,14 @@ FEATURES
                    │
                    ▼
           ┌──────────────────┐
+          │ BOTTOM NAVIGATION│
+          │                  │
+          │ FRAGMENTS +      │
+          │ NAVGRAPH         │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
           │   MODERN WEB     │
           │                  │
           │ NEXT.JS + TS     │
@@ -285,6 +336,8 @@ ANDROID
 ├── XML
 ├── View Binding
 ├── Activities
+├── Fragments
+├── Navigation Component
 ├── Intents
 ├── UI State
 ├── Persistence
@@ -313,13 +366,14 @@ DEVELOPER WORKFLOW
 2026
 
 ANDROID
-[████████████████░░░░] Android Fundamentals
+[████████████████████░░] Android Fundamentals
 
 [x] First Android applications
 [x] Kotlin + XML
 [x] Git + GitHub
 [x] View Binding
 [x] Persistent local state
+[x] Fragments + Navigation Component
 
 WEB
 [████████████░░░░░░░░] Modern Web Development
@@ -335,7 +389,7 @@ NEXT
 [ ] Larger Android applications
 [ ] Stronger Kotlin fundamentals
 [ ] Firebase
-[ ] Modern Android architecture
+[ ] Modern Android architecture (MVVM)
 [ ] Publish a complete application
 [ ] Open-source contribution
 [ ] Build more production-ready projects
@@ -383,13 +437,13 @@ NEXT
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
 
- 
+ 
 
 <a href="https://www.linkedin.com/in/m-shaban-saeed-80b5a2316/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
 </a>
 
- 
+ 
 
 <a href="mailto:shabansaeed1999@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
