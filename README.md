@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # `SHABAN SAEED`
 
@@ -14,25 +14,15 @@
 <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
- 
-
 <img src="https://komarev.com/ghpvc/?username=pabloesc1999&label=VISITORS&color=00F5FF&style=for-the-badge" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-
- 
-
 <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
- 
-
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
- 
-
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
@@ -45,7 +35,7 @@
 │ USER        : SHABAN SAEED                                  │
 │ ROLE        : ANDROID DEVELOPER                              │
 │ PRIMARY     : KOTLIN / ANDROID                              │
-│ EXPLORING   : MODERN WEB DEVELOPMENT                        │
+│ EXPLORING   : MODERN WEB + PYTHON                           │
 │ STATUS      : BUILDING                                      │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -58,7 +48,7 @@ I learn by building real applications, testing ideas, breaking things, debugging
 
 My current focus is **Kotlin, native Android development, UI development, application state, persistence, navigation, and software engineering fundamentals.**
 
-I'm also expanding into modern web development with **Next.js, TypeScript, and Tailwind CSS** by building practical projects and my own developer portfolio.
+I'm also expanding into modern web development with **Next.js, TypeScript, and Tailwind CSS**, while exploring Python through practical projects involving financial data and rule-based automation.
 
 ```text
 MINDSET
@@ -82,7 +72,7 @@ BUILD AGAIN
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,java,git,github,nextjs,typescript,tailwind,html,css,js,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,java,python,git,github,nextjs,typescript,tailwind,html,css,js,vscode,visualstudio" />
 
 </div>
 
@@ -109,6 +99,12 @@ WEB
 └── HTML
 └── CSS
 └── JavaScript
+
+PYTHON
+└── Python Fundamentals
+└── Rule-Based Logic
+└── Financial Data Analysis
+└── Unit Testing
 
 TOOLS
 └── Android Studio
@@ -196,7 +192,7 @@ FEATURES
 
 `Activities` `Intents` `Persistence` `State`
 
-> ⚠️ Learning project: credentials are stored locally for demonstration purposes and are not suitable for production authentication.
+> Learning project: credentials are stored locally for demonstration purposes and are not suitable for production authentication.
 
 ---
 
@@ -264,6 +260,50 @@ FEATURES
 
 ---
 
+### `05` ── `GFC FINANCIAL CHATBOT`
+
+**Python • Financial Data Analysis • Rule-Based Logic • Unit Testing**
+
+A command-line financial chatbot prototype built for the BCG GenAI Job Simulation. It answers supported questions about Microsoft, Tesla, and Apple financial data for fiscal years 2023–2025.
+
+<div align="center">
+
+<a href="https://github.com/pabloesc1999/GFC-Financial-Chatbot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT_ON_GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
+
+```text
+FEATURES
+
+[✓] Financial data for Microsoft, Tesla, and Apple
+[✓] Revenue queries
+[✓] Net income queries
+[✓] Revenue growth calculations
+[✓] Net profit margin calculations
+[✓] Input validation and ambiguity handling
+[✓] Automated unit tests
+[✓] Documented setup and usage instructions
+```
+
+**Testing**
+
+```text
+TEST SUITE
+
+[✓] 21 automated tests passed
+[✓] 0 failures
+[✓] 0 errors
+[✓] Standard-library implementation
+```
+
+**Key learning**
+
+`Python` `Financial Analysis` `Rule-Based Chatbot` `Input Validation` `Unit Testing`
+
+---
+
 # `04 // DEVELOPMENT PATH`
 
 ```text
@@ -310,6 +350,14 @@ FEATURES
           └────────┬─────────┘
                    │
                    ▼
+          ┌──────────────────┐
+          │ FINANCIAL CHATBOT│
+          │                  │
+          │ PYTHON + DATA    │
+          │ LOGIC + TESTS    │
+          └────────┬─────────┘
+                   │
+                   ▼
              NEXT PROJECT
 ```
 
@@ -349,6 +397,12 @@ MODERN WEB
 ├── Tailwind CSS
 └── Responsive UI
 
+PYTHON
+├── Core Python
+├── Financial Data Processing
+├── Rule-Based Logic
+└── Unit Testing
+
 DEVELOPER WORKFLOW
 ├── Git
 ├── GitHub
@@ -384,6 +438,13 @@ WEB
 [x] Responsive portfolio
 [x] Vercel deployment
 
+PYTHON
+[██████████░░░░░░░░░░] Practical Projects
+
+[x] Rule-based financial chatbot
+[x] Automated unit testing
+[x] GitHub project publishing
+
 NEXT
 
 [ ] Larger Android applications
@@ -402,9 +463,7 @@ NEXT
 <div align="center">
 
 <a href="https://shaban-portfolio-tau.vercel.app/">
-
 <img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
-
 </a>
 
 <br><br>
@@ -437,13 +496,9 @@ NEXT
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
 
- 
-
 <a href="https://www.linkedin.com/in/m-shaban-saeed-80b5a2316/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
 </a>
-
- 
 
 <a href="mailto:shabansaeed1999@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
