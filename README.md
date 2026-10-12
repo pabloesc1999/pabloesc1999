@@ -2,11 +2,11 @@
 
 # `SHABAN SAEED`
 
-### `ANDROID DEVELOPER  //  KOTLIN  //  BUILDER`
+### `ANDROID DEVELOPER  //  KOTLIN  //  SOFTWARE BUILDER`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+developer.profile...;Kotlin+%2B+Android+%3D+Building;Turning+ideas+into+working+software;Learn.+Build.+Debug.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Initializing+developer.profile...;Kotlin+%2B+Android+%3D+Building;Exploring+AI+%2B+Data+Analytics;Turning+ideas+into+working+software;Learn.+Build.+Debug.+Repeat." />
 
 <br><br>
 
@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GENAI-00F5FF?style=for-the-badge&logoColor=black" />
 
 </div>
 
@@ -33,9 +34,9 @@
 │                    SYSTEM INITIALIZED                       │
 ├──────────────────────────────────────────────────────────────┤
 │ USER        : SHABAN SAEED                                  │
-│ ROLE        : ANDROID DEVELOPER                              │
+│ ROLE        : ANDROID / SOFTWARE DEVELOPER                  │
 │ PRIMARY     : KOTLIN / ANDROID                              │
-│ EXPLORING   : MODERN WEB + PYTHON                           │
+│ EXPLORING   : GENAI / DATA ANALYTICS / WEB                  │
 │ STATUS      : BUILDING                                      │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -44,11 +45,19 @@
 
 I'm a developer focused on **Android development with Kotlin** and native application development.
 
-I learn by building real applications, testing ideas, breaking things, debugging them, and understanding **why** they work.
+I learn by building real applications, testing ideas, debugging problems, and understanding why things work.
 
-My current focus is **Kotlin, native Android development, UI development, application state, persistence, navigation, and software engineering fundamentals.**
+My development interests include:
 
-I'm also expanding into modern web development with **Next.js, TypeScript, and Tailwind CSS**, while exploring Python through practical projects involving financial data and rule-based automation.
+- Native Android development with Kotlin and XML
+- UI interaction, application state, persistence, and navigation
+- Modern web development with Next.js, TypeScript, and Tailwind CSS
+- Python projects involving financial data, rule-based logic, and unit testing
+- Generative AI applications, prompt engineering, and AI-assisted analytical workflows
+
+I've also completed six virtual job simulations with BCG X, Tata, Walmart Global Tech, Vista Equity Partners, EAB, and Mastercard to explore practical applications of software engineering, AI, analytics, business technology, and cybersecurity.
+
+My approach is simple: **build, test, learn, improve, and repeat.**
 
 ```text
 MINDSET
@@ -79,40 +88,58 @@ BUILD AGAIN
 <br>
 
 ```text
-ANDROID
-└── Kotlin
-└── Android SDK
-└── XML Layouts
-└── Activities
-└── Fragments
-└── Navigation Component
-└── Intents
-└── View Binding
-└── ConstraintLayout
-└── Material Components
-└── SharedPreferences
+ANDROID & SOFTWARE DEVELOPMENT
+├── Kotlin
+├── Android SDK
+├── Java
+├── XML Layouts
+├── Activities & Fragments
+├── Navigation Component
+├── Intents
+├── View Binding
+├── ConstraintLayout
+├── SharedPreferences
+└── Software Development Fundamentals
 
-WEB
-└── Next.js
-└── TypeScript
-└── Tailwind CSS
-└── HTML
-└── CSS
+WEB DEVELOPMENT
+├── Next.js
+├── TypeScript
+├── Tailwind CSS
+├── HTML
+├── CSS
 └── JavaScript
 
-PYTHON
-└── Python Fundamentals
-└── Rule-Based Logic
-└── Financial Data Analysis
-└── Unit Testing
+GENERATIVE AI
+├── Generative AI Applications
+├── Prompt Engineering
+├── Enterprise AI Use Cases
+├── AI-Assisted Workflows
+└── Proposal Generation Workflows
 
-TOOLS
-└── Android Studio
-└── Gradle
-└── Git
-└── GitHub
-└── VS Code
-└── Visual Studio
+DATA ANALYTICS
+├── Financial Data Analysis
+├── Data-Driven Decision-Making
+├── Revenue Growth Calculations
+├── Net Profit Margin Calculations
+└── Analytical Workflows
+
+CYBERSECURITY FUNDAMENTALS
+├── Threat Identification
+├── Security Risk Assessment
+└── Foundational Security Protocols
+
+BUSINESS & TECHNOLOGY
+├── Technical Writing
+├── Business Development
+├── AI in Business Operations
+└── Technology-Driven Value Creation
+
+TOOLS & WORKFLOW
+├── Android Studio
+├── Gradle
+├── Git & GitHub
+├── VS Code
+├── Visual Studio
 └── Vercel
 ```
 
@@ -129,16 +156,13 @@ A precision-focused Android calculator built while learning Kotlin and native An
 ```text
 FEATURES
 
-[✓] Addition
-[✓] Subtraction
-[✓] Multiplication
-[✓] Division
+[✓] Addition, subtraction, multiplication & division
 [✓] Chained calculations
 [✓] Operator swapping
 [✓] Decimal handling
 [✓] Divide-by-zero handling
-[✓] Clean number formatting
-[✓] BigDecimal precision
+[✓] Number formatting
+[✓] BigDecimal arithmetic
 ```
 
 **Key learning**
@@ -152,29 +176,6 @@ FEATURES
 **Kotlin • Android • XML • Intents • SharedPreferences**
 
 An Android authentication practice project demonstrating local session persistence and screen navigation.
-
-```text
-FLOW
-
-APP START
-   │
-   ▼
-CHECK SESSION
-   │
-   ├───────────────┐
-   │               │
-LOGGED IN       LOGGED OUT
-   │               │
-   ▼               ▼
-DASHBOARD        LOGIN
-   │               │
-   │            VALIDATE
-   │               │
-   │               ▼
-   │          SAVE SESSION
-   │               │
-   └───────► DASHBOARD
-```
 
 ```text
 FEATURES
@@ -200,35 +201,36 @@ FEATURES
 
 **Kotlin • Android • Fragments • Navigation Component**
 
-A single-Activity, multi-screen Android app built around the Navigation Component — three Fragments, one NavGraph, one BottomNavigationView, zero extra Activities.
+A single-Activity Android application demonstrating navigation between three independent Fragments using a NavGraph and BottomNavigationView.
 
 ```text
 ARCHITECTURE
 
-MAINACTIVITY (the one true Activity)
-   │
-   ▼
-NAVHOSTFRAGMENT
-   │
-   ├────────────┬────────────┐
-   │            │            │
-HOMEFRAGMENT SEARCHFRAGMENT BOOKMARKFRAGMENT
-   │            │            │
-   └────────────┴────────────┘
-                │
-       BOTTOMNAVIGATIONVIEW
-      (wired straight to NavController)
+MAIN ACTIVITY
+      │
+      ▼
+NAV HOST FRAGMENT
+      │
+      ├────────────┬────────────┐
+      ▼            ▼            ▼
+     HOME        SEARCH      BOOKMARKS
+   FRAGMENT     FRAGMENT     FRAGMENT
+      │            │            │
+      └────────────┴────────────┘
+                   │
+          BOTTOM NAVIGATION
+             NAV CONTROLLER
 ```
 
 ```text
 FEATURES
 
 [✓] Single-Activity architecture
-[✓] 3 Fragments as independent destinations
+[✓] Three Fragment destinations
 [✓] NavGraph-driven navigation
-[✓] BottomNavigationView auto-wired via setupWithNavController
-[✓] Custom vector icons per tab
-[✓] Back-stack handled by defaultNavHost
+[✓] BottomNavigationView integration
+[✓] Custom vector icons
+[✓] Navigation back-stack handling
 ```
 
 **Key learning**
@@ -239,9 +241,9 @@ FEATURES
 
 ### `04` ── `COUNTER APP`
 
-**Kotlin • XML • ConstraintLayout • Android**
+**Kotlin • Android • XML • ConstraintLayout**
 
-A focused Android exercise for UI interaction, button handling, and application state.
+A focused Android application demonstrating button interactions, UI updates, and basic state management.
 
 ```text
 FEATURES
@@ -264,7 +266,7 @@ FEATURES
 
 **Python • Financial Data Analysis • Rule-Based Logic • Unit Testing**
 
-A command-line financial chatbot prototype built for the BCG GenAI Job Simulation. It answers supported questions about Microsoft, Tesla, and Apple financial data for fiscal years 2023–2025.
+A command-line financial chatbot prototype developed for the BCG GenAI Job Simulation. It answers supported questions about Microsoft, Tesla, and Apple financial data for fiscal years 2023–2025.
 
 <div align="center">
 
@@ -284,7 +286,7 @@ FEATURES
 [✓] Net profit margin calculations
 [✓] Input validation and ambiguity handling
 [✓] Automated unit tests
-[✓] Documented setup and usage instructions
+[✓] Documented setup and usage
 ```
 
 **Testing**
@@ -295,7 +297,6 @@ TEST SUITE
 [✓] 21 automated tests passed
 [✓] 0 failures
 [✓] 0 errors
-[✓] Standard-library implementation
 ```
 
 **Key learning**
@@ -304,7 +305,77 @@ TEST SUITE
 
 ---
 
-# `04 // DEVELOPMENT PATH`
+# `04 // CERTIFICATIONS & JOB SIMULATIONS`
+
+Completed virtual job simulations exploring practical applications of AI, analytics, software engineering, business technology, and cybersecurity.
+
+<div align="center">
+
+<a href="https://www.theforage.com/simulations?qfilter=completed">
+<img src="https://img.shields.io/badge/VIEW_FORAGE_SIMULATIONS-00F5FF?style=for-the-badge&logoColor=black" />
+</a>
+
+</div>
+
+### `01` ── `GENAI`
+
+**BCG X**
+
+Explored generative AI applications, prompt engineering, and enterprise AI use cases.
+
+`Generative AI` `Prompt Engineering` `Enterprise AI`
+
+### `02` ── `GENAI POWERED DATA ANALYTICS`
+
+**Tata**
+
+Explored AI-assisted data analysis, data-driven decision-making, and more efficient analytical workflows.
+
+`Data Analytics` `AI-Assisted Analysis` `Decision-Making`
+
+### `03` ── `ADVANCED SOFTWARE ENGINEERING`
+
+**Walmart Global Tech**
+
+Explored software development workflows, interface design, complex codebases, and technical problem-solving.
+
+`Software Engineering` `Interface Design` `Problem-Solving`
+
+### `04` ── `AI IN ACTION`
+
+**Vista Equity Partners**
+
+Explored how AI strategies can support business operations and technology-driven value creation.
+
+`AI Strategy` `Business Operations` `Technology`
+
+### `05` ── `GENAI FOR PROPOSAL GENERATION`
+
+**EAB**
+
+Explored generative AI-assisted proposal workflows, technical writing, and business development.
+
+`Generative AI` `Technical Writing` `Proposal Workflows`
+
+### `06` ── `CYBERSECURITY`
+
+**Mastercard**
+
+Explored foundational cybersecurity concepts, threat identification, and security risk assessment.
+
+`Cybersecurity` `Threat Identification` `Risk Assessment`
+
+<div align="center">
+
+<a href="https://shaban-portfolio-tau.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATES_ON_MY_PORTFOLIO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+# `05 // DEVELOPMENT PATH`
 
 ```text
                  ANDROID
@@ -369,27 +440,24 @@ Real understanding.
 
 ---
 
-# `05 // CURRENTLY BUILDING`
+# `06 // CURRENTLY BUILDING`
 
 ```text
 KOTLIN
-├── OOP
+├── Object-Oriented Programming
 ├── Collections
 ├── Lambdas
 ├── Null Safety
 ├── Scope Functions
-└── Advanced Kotlin
+└── Stronger Kotlin Fundamentals
 
 ANDROID
-├── XML
-├── View Binding
-├── Activities
-├── Fragments
+├── XML & View Binding
+├── Activities & Fragments
 ├── Navigation Component
-├── Intents
-├── UI State
-├── Persistence
-└── Architecture
+├── UI State & Persistence
+├── Firebase
+└── MVVM & Modern Android Architecture
 
 MODERN WEB
 ├── Next.js
@@ -397,15 +465,20 @@ MODERN WEB
 ├── Tailwind CSS
 └── Responsive UI
 
-PYTHON
+PYTHON & DATA
 ├── Core Python
 ├── Financial Data Processing
 ├── Rule-Based Logic
 └── Unit Testing
 
+AI & SECURITY
+├── Generative AI Applications
+├── Prompt Engineering
+├── Data Analytics
+└── Cybersecurity Fundamentals
+
 DEVELOPER WORKFLOW
-├── Git
-├── GitHub
+├── Git & GitHub
 ├── Android Studio
 ├── VS Code
 ├── Gradle
@@ -414,13 +487,13 @@ DEVELOPER WORKFLOW
 
 ---
 
-# `06 // ROADMAP`
+# `07 // ROADMAP`
 
 ```text
 2026
 
 ANDROID
-[████████████████████░░] Android Fundamentals
+[████████████████████░░] ANDROID FUNDAMENTALS
 
 [x] First Android applications
 [x] Kotlin + XML
@@ -430,7 +503,7 @@ ANDROID
 [x] Fragments + Navigation Component
 
 WEB
-[████████████░░░░░░░░] Modern Web Development
+[████████████░░░░░░░░] MODERN WEB DEVELOPMENT
 
 [x] Next.js
 [x] TypeScript
@@ -439,7 +512,7 @@ WEB
 [x] Vercel deployment
 
 PYTHON
-[██████████░░░░░░░░░░] Practical Projects
+[██████████░░░░░░░░░░] PRACTICAL PROJECTS
 
 [x] Rule-based financial chatbot
 [x] Automated unit testing
@@ -449,7 +522,7 @@ NEXT
 
 [ ] Larger Android applications
 [ ] Stronger Kotlin fundamentals
-[ ] Firebase
+[ ] Firebase integration
 [ ] Modern Android architecture (MVVM)
 [ ] Publish a complete application
 [ ] Open-source contribution
@@ -458,7 +531,7 @@ NEXT
 
 ---
 
-# `07 // LIVE PORTFOLIO`
+# `08 // LIVE PORTFOLIO`
 
 <div align="center">
 
@@ -470,11 +543,13 @@ NEXT
 
 `shaban-portfolio-tau.vercel.app`
 
+Explore my projects, development skills, and completed job simulations.
+
 </div>
 
 ---
 
-# `08 // GITHUB`
+# `09 // GITHUB`
 
 <div align="center">
 
@@ -488,7 +563,7 @@ NEXT
 
 ---
 
-# `09 // CONNECT`
+# `10 // CONNECT`
 
 <div align="center">
 
